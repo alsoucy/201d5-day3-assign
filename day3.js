@@ -86,6 +86,7 @@ function questionFive() {
   var age = false;
   while(age == false){
     var answer5 = prompt("Okay, " + userName + " can you can guess how old I am.");
+    console.log('The user answered question 5: ' + answer5);
     if(answer5 == 41) {
       age = true;
       //alert("That's right, " + userName + "! Good guess.");
