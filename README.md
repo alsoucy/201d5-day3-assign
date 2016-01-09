@@ -12,3 +12,6 @@ Thursday additions (driven by Ben Harding)<br>
 -Commented out Alerts<br>
 -Added textContent to bring responses to html page<br>
 -Added function calls<br>
+
+1/08/2016 - Edited by Adam Leonard
+Added arrays for questions 1-3, added CSS file
